@@ -51,7 +51,7 @@ const provinceByNames = names.reduce((acc, name, index) => {
 
 console.log(provinceByNames);
 
-console.log("each product name to the console.");
+console.log("each product name logged to the console.");
 products.forEach((product) => console.log(product.product));
 
 console.log(
